@@ -1,0 +1,18 @@
+# visualization files
+*.eps
+*.jpg
+*.png
+*.pdf
+
+# executable files
+
+*.exe
+*.out
+
+# back up files
+\#*
+
+# data file
+
+*.root
+*.json
