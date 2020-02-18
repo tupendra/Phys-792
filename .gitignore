@@ -16,3 +16,9 @@
 
 *.root
 *.json
+
+# auxiliary files
+
+*.aux
+*.log
+*.tex
