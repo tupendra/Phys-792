@@ -15,7 +15,7 @@ Alpha particles can elastically scatter agaist a nucleus without changing the di
 
 Alpha particles can inelastically scatter agianst the nuclues and changes its direction.
 
- Here are the list of beta particles with air
+####  Here are the list of beta particles with air
 - eBrem
 
 When electrons are decelerated at the vicinity of nucleus, a radiation called bremsstrahlung radiation is emitted.
@@ -27,7 +27,7 @@ Beta particles can interact with positrons and  get annihalted producing two gam
 High energy beta particles can interact with atom and kncock more electrons
 
 
- Here are the list of gamma interaction with air
+#### Here are the list of gamma interaction with air
 
 - phot 
 
