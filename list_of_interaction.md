@@ -1,5 +1,5 @@
 # List of interaction of alpha, beta and gamma particles in air.
-<<<<<<< HEAD
+
 #### Here are the list of interaction of alpha particles with air
 
 - ionIoni
